@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binoy062" alt="binoy062" /></a> </p>
 
-- 🌱 I’m currently learning **WordPress**
-
 - 📫 How to reach me **binoygorai01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
